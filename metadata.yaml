@@ -1,5 +1,8 @@
 _repo: Koszoru-a-roman-nepkolteszet-viragaibol_64618
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Moldován, Gergely
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52021
     wikipedia: https://hu.wikipedia.org/wiki/Moldov%C3%A1n_Gergely
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64618#Koszoru-a-roman-nepkolteszet-viragaibol
 gutenberg_issued: '2021-02-24'
 gutenberg_type: Text
 identifiers:
